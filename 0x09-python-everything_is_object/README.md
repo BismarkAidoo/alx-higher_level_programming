@@ -15,13 +15,12 @@ In this project, I studied object instantiation in Python, delving into variable
 - 2.Right count
 
 	* 2-answer.txt: In the following code, do `a` and `b` point to the same object?
+	`>>> a = 89`
+	`>>> b = 100`
 
-|:-------------:|
-| `>>> a = 89`	|
-| `>>> b = 100`	|
+- 3.Right count =
 
-
-
+	* 3-answer.txt: In the following code, do `a` and `b` point to the same object?
 
 
 
